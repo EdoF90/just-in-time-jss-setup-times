@@ -14,7 +14,7 @@ The repository contains the instances used in the paper "A Reduced Variable Neig
   publisher = {Elsevier BV},
   author = {Brandimarte,  Paolo and Fadda,  Edoardo},
   year = {2024},
-  month = jul,
+  month = {jul},
   pages = {106634}
 }
 ```
