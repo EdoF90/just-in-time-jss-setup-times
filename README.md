@@ -27,7 +27,12 @@ The project is organized as follows:
   - **`just_in_time_job_shop_setup/`** Contains the core solvers, including the exact method, timing models, VNS (Variable Neighborhood Search), etc.
 
 
-## Citing Us
+## License
+
+* **Code:** The source code in this repository is licensed under the [MIT License](LICENSE).
+* **Data & Instances:** The benchmark instances and solution files are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE-DATA).
+
+If you use the code or the instances in your research, please cite our paper:
 
 ```Bibtex
 @article{Brandimarte2024,
